@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/psy/CLionProjects/raytrace/draw.c
+rt.h
+/home/psy/CLionProjects/raytrace/rt.h
+
+/home/psy/CLionProjects/raytrace/lft/libft.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/home/psy/CLionProjects/raytrace/minilibx_macos/mlx.h
+
+/home/psy/CLionProjects/raytrace/rt.h
+stdio.h
+-
+minilibx_macos/mlx.h
+/home/psy/CLionProjects/raytrace/minilibx_macos/mlx.h
+lft/libft.h
+/home/psy/CLionProjects/raytrace/lft/libft.h
+string.h
+-
+unistd.h
+-
+stdlib.h
+-
+fcntl.h
+-
+math.h
+-
+
